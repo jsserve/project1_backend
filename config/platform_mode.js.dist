@@ -1,0 +1,8 @@
+// copy (don't rename) this file to platform_mode.js
+// platform_mode.js added to .gitignore, so it won't be tracked
+// and therefor it won't be affected by commits
+// set the value you need, it can be 'live' or 'dev' or 'local'
+
+module.exports = {
+    'platformMode':'local' // live/dev/local
+};
